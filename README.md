@@ -1,19 +1,10 @@
-# 535-project2
-It's a small world
+# Its small world
 
-Group members:
+# Description: 
 
-Kunal Chhatrapati Student ID: 885792390
+The primary focus is the Small World/Shortest Connection problem. Finding the shortest connection between two casts is the objective of this project. One must determine whether there is a common link between two casts to determine the shortest connection between them. The shortest link is one if there is a common string between the first two casts. If two casts don't have common strings, search for another cast in the list. If the other cast has exactly one common string in the first cast and one string common in the second cast, then the shortest connection is 2. Otherwise, the shortest connection is greater than two, or there is no connection.
 
-Vallari Rajurkar Student ID: 885734566
-
-Gouri Sabale  Student ID: 885189761
-
-Summary: 
-
-The report's primary focus is the Small World/Shortest Connection problem. Finding the shortest connection between two casts is the objective of this project. One must determine whether there is a common link between two casts to determine the shortest connection between them. The shortest link is one if there is a common string between the first two casts. If two casts don't have common strings, search for another cast in the list. If the other cast has exactly one common string in the first cast and one string common in the second cast, then the shortest connection is 2. Otherwise, the shortest connection is greater than two, or there is no connection.
-
-Problem Statement:
+# Approach:
 
 In this problem, we are given two casts for two movies, and we have to find out what is the shortest connection between the two casts.
 Given an input should be a positive integer n>2.
